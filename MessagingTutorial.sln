@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartService", "CartService\CartService.csproj", "{D1F3756C-D563-41AA-891B-BF30AF8BAC2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCalculationService", "PaymentCalculationService\PaymentCalculationService.csproj", "{35DC735F-19A2-41E0-A091-130CD4DB34AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D2CF551C-7039-432D-B8C1-2CBD12AB9B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F3756C-D563-41AA-891B-BF30AF8BAC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F3756C-D563-41AA-891B-BF30AF8BAC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F3756C-D563-41AA-891B-BF30AF8BAC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F3756C-D563-41AA-891B-BF30AF8BAC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DC735F-19A2-41E0-A091-130CD4DB34AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DC735F-19A2-41E0-A091-130CD4DB34AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DC735F-19A2-41E0-A091-130CD4DB34AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DC735F-19A2-41E0-A091-130CD4DB34AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CF551C-7039-432D-B8C1-2CBD12AB9B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CF551C-7039-432D-B8C1-2CBD12AB9B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CF551C-7039-432D-B8C1-2CBD12AB9B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CF551C-7039-432D-B8C1-2CBD12AB9B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

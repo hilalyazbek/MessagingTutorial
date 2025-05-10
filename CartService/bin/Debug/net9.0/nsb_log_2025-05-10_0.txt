@@ -1,0 +1,12 @@
+﻿2025-05-10 22:09:22.114 INFO  Logging to 'D:\Workarea\blog\MessagingTutorial\CartService\bin\Debug\net9.0\' with level Info
+2025-05-10 22:09:22.164 INFO  No valid license could be found. Falling back to trial license with start date '2025-05-10'.
+2025-05-10 22:11:01.375 INFO  Logging to 'D:\Workarea\blog\MessagingTutorial\CartService\bin\Debug\net9.0\' with level Info
+2025-05-10 22:11:01.425 INFO  No valid license could be found. Falling back to trial license with start date '2025-05-10'.
+2025-05-10 22:22:36.348 INFO  Logging to 'D:\Workarea\blog\MessagingTutorial\CartService\bin\Debug\net9.0\' with level Info
+2025-05-10 22:22:36.515 INFO  No valid license could be found. Falling back to trial license with start date '2025-05-10'.
+2025-05-10 22:22:44.735 INFO  Initiating shutdown.
+2025-05-10 22:22:44.774 INFO  Shutdown complete.
+2025-05-10 22:22:56.764 INFO  Logging to 'D:\Workarea\blog\MessagingTutorial\CartService\bin\Debug\net9.0\' with level Info
+2025-05-10 22:22:56.875 INFO  No valid license could be found. Falling back to trial license with start date '2025-05-10'.
+2025-05-10 22:28:55.832 INFO  Initiating shutdown.
+2025-05-10 22:28:55.881 INFO  Shutdown complete.
